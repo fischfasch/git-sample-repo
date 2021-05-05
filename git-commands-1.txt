@@ -1,4 +1,4 @@
-git status
+git status -> prints status of git repository
 git init
 git config --global user.name "devcf"
 git config --global user.email christoph.fischer84@web.de
