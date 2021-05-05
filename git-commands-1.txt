@@ -1,0 +1,10 @@
+git status
+git init
+git config --global user.name "devcf"
+git config --global user.email christoph.fischer84@web.de
+git config user.name "devcf"
+git config user.email christoph.fischer84@web.de
+git add
+git commit -m ""
+git log
+git diff <filename>
